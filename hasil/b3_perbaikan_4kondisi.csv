@@ -1,0 +1,9 @@
+kondisi,citra,perbaikan,KB_sebelum,KB_sesudah
+gelap,teh_042.png,regang 2-98,5.66,5.94
+gelap,teh_022.png,regang 2-98,2.1,2.6
+terang,teh_043.png,"gamma 1,8",4.23,4.64
+terang,teh_023.png,"gamma 1,8",2.15,2.33
+kontras_rendah,teh_044.png,regang 2-98,2.93,3.07
+kontras_rendah,teh_024.png,regang 2-98,0.77,0.83
+bayangan,teh_045.png,"CLAHE 1,0/8",1.23,1.93
+bayangan,teh_025.png,"CLAHE 1,0/8",1.35,1.53

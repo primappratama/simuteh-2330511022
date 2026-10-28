@@ -1,0 +1,37 @@
+kondisi,metode,KB,rerata,lolos_arah
+bayangan,"CLAHE 1,0/8",1.76,127.58,True
+bayangan,"CLAHE 2,0/8",1.54,128.34,True
+bayangan,asli,1.62,125.5,True
+bayangan,ekualisasi,1.19,128.33,True
+bayangan,"gamma 0,5",1.41,174.0,True
+bayangan,"gamma 0,7",1.49,151.66,True
+bayangan,"gamma 1,5",1.85,93.84,False
+bayangan,"gamma 1,8",2.0,80.45,False
+bayangan,regang 2-98,1.66,110.28,False
+gelap,"CLAHE 1,0/8",2.68,120.39,True
+gelap,"CLAHE 2,0/8",1.98,122.63,True
+gelap,asli,3.8,115.7,True
+gelap,ekualisasi,1.36,130.94,True
+gelap,"gamma 0,5",2.96,167.76,True
+gelap,"gamma 0,7",3.27,143.78,True
+gelap,"gamma 1,5",4.8,81.26,False
+gelap,"gamma 1,8",5.48,66.47,False
+gelap,regang 2-98,4.12,175.25,True
+kontras_rendah,"CLAHE 1,0/8",1.72,153.43,False
+kontras_rendah,"CLAHE 2,0/8",1.47,150.32,False
+kontras_rendah,asli,2.09,155.43,True
+kontras_rendah,ekualisasi,1.91,131.18,False
+kontras_rendah,"gamma 0,5",2.0,198.29,False
+kontras_rendah,"gamma 0,7",2.04,179.63,True
+kontras_rendah,"gamma 1,5",2.19,121.32,False
+kontras_rendah,"gamma 1,8",2.21,104.84,False
+kontras_rendah,regang 2-98,2.22,160.72,True
+terang,"CLAHE 1,0/8",2.13,198.63,True
+terang,"CLAHE 2,0/8",1.66,187.87,True
+terang,asli,2.98,211.58,True
+terang,ekualisasi,1.45,130.71,False
+terang,"gamma 0,5",2.81,231.22,False
+terang,"gamma 0,7",2.89,222.84,False
+terang,"gamma 1,5",3.15,193.49,True
+terang,"gamma 1,8",3.25,183.97,True
+terang,regang 2-98,3.17,170.66,True

@@ -1,0 +1,7 @@
+citra,rerata,simpangan_baku,min,maks,persen_gelap,persen_terang
+teh_041 (normal),167.7,38.0,72.0,220.0,0.0,0.5
+teh_042 (gelap),107.8,37.2,8.0,159.0,19.8,0.0
+teh_043 (terang),211.9,26.1,134.0,252.0,0.0,79.5
+teh_044 (kontras rendah),155.8,18.3,101.0,193.0,0.0,0.0
+teh_045 (bayangan),123.8,51.2,33.0,230.0,0.7,6.3
+"teh_021-025 (ringan, rerata)",158.1,36.0,66.2,220.4,2.1,18.8
