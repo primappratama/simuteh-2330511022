@@ -1,0 +1,28 @@
+{
+  "kanal_evaluasi": "R",
+  "dasar": {
+    "lebar": 640,
+    "gamma": 1.0,
+    "clahe_clip": 0,
+    "clahe_tile": 8,
+    "penapis": "median",
+    "kernel": 3,
+    "sigma": 1.0,
+    "tajam_k": 0.0
+  },
+  "per_kondisi": {
+    "terang": {
+      "gamma": 1.6
+    },
+    "bayangan": {
+      "clahe_clip": 1.0,
+      "clahe_tile": 8
+    }
+  },
+  "ambang": {
+    "bayangan_lr": 40,
+    "terang_rerata": 190,
+    "kontras_std": 25,
+    "gelap_rerata": 145
+  }
+}
