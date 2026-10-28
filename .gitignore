@@ -1,0 +1,9 @@
+# data mentah dan hasil bangkitan tidak diunggah (Lampiran A)
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# berkas ZIP pengumpulan dan arsip draf tidak perlu masuk repository
+laporan/*.zip
+laporan/arsip/
