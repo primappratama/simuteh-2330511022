@@ -1,0 +1,10 @@
+,Gaussian 20,Gaussian 20,Gaussian 20,Garam-merica 4%,Garam-merica 4%,Garam-merica 4%
+,PSNR_dB,waktu_ms,KB,PSNR_dB,waktu_ms,KB
+penapis,,,,,,
+tanpa,22.11,0.0,1.89,19.32,0.0,1.45
+rerata_3,31.45,0.28,4.31,28.51,0.3,3.68
+rerata_5,34.63,0.32,5.19,31.91,0.3,4.83
+gauss_5,32.6,0.07,4.63,29.66,0.06,4.08
+median_3,29.74,0.06,3.84,48.33,0.05,6.46
+median_5,33.5,0.89,4.98,45.71,0.93,6.59
+median_9,35.64,11.54,5.69,41.76,10.57,6.99
