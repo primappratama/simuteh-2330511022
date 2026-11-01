@@ -1,8 +1,8 @@
 # SIMUTEH: Praproses Citra Daun Teh (v0.1-praproses)
 
-Evaluasi Praktikum P1–P4 Computer Vision, Teknik Informatika UMMI, TA 2026/2027
+Evaluasi Praktikum P1–P4 Computer Vision
 **Prima Pratama Putra · NIM 2330511022 · Kelas 7A · SEED = 1022**
-Repository: https://github.com/primappratama/simuteh-2330511022 (privat)
+Repository: https://github.com/primappratama/simuteh-2330511022
 
 SIMUTEH membantu petugas sortir kelompok tani teh rakyat di Kabupaten Sukabumi menilai bercak daun teh dari foto telepon genggam. Keluarannya kelas mutu (Sehat, Bercak Ringan, Bercak Berat) dan persentase luas bercak; keputusan akhir tetap di tangan petugas. Versi ini mencakup tahap **akuisisi dan praproses**.
 
