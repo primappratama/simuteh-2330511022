@@ -7,3 +7,4 @@ __pycache__/
 # berkas ZIP pengumpulan dan arsip draf tidak perlu masuk repository
 laporan/*.zip
 laporan/arsip/
+laporan/opsi/
