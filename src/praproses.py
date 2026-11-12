@@ -28,7 +28,12 @@ def _gamma_lut(g):
 
 
 def praproses(img_bgr, p=None):
-    """Urutan: ubah ukuran -> gamma -> CLAHE kanal V -> redam derau -> tajamkan."""
+    """Urutan: ubah ukuran -> gamma -> CLAHE kanal V -> redam derau -> tajamkan.
+    Bila p berupa konfigurasi adaptif (punya kunci "dasar", isi
+    param_praproses.json hasil P1-P4), pemanggilan diteruskan ke
+    praproses_adaptif agar kode P5-P6 `praproses(img, PARAM)` tetap jalan."""
+    if p is not None and "dasar" in p:
+        return praproses_adaptif(img_bgr, p)[0]
     p = {**PARAM_BAWAAN, **(p or {})}
 
     # TODO 1: ubah ukuran agar lebar = p["lebar"], rasio aspek tetap
