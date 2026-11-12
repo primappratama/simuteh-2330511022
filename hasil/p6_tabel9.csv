@@ -1,0 +1,10 @@
+bentuk,ukuran,IoU berat,IoU ringan,Galat jumlah berat,Galat jumlah ringan,Galat jumlah sehat
+persegi,3,0.82,0.57,4.85,5.5,9.95
+persegi,5,0.84,0.69,0.25,0.65,1.25
+persegi,7,0.82,0.59,0.15,0.5,0.0
+elips,3,0.81,0.52,17.5,11.0,33.55
+elips,5,0.84,0.68,1.0,0.65,4.45
+elips,7,0.84,0.69,0.15,0.25,0.1
+silang,3,0.81,0.52,17.5,11.0,33.55
+silang,5,0.84,0.66,2.3,1.5,7.15
+silang,7,0.84,0.64,0.0,0.4,0.65

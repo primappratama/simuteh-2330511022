@@ -1,0 +1,9 @@
+,final,bawaan (PB = {})
+Galat absolut rerata persen bercak,0.229,0.268
+Korelasi persen prediksi dan acuan,0.981,0.979
+Akurasi kelas,0.983,0.917
+Galat jumlah bercak rerata,0.05,0.45
+Jumlah daun sehat yang dinilai berbercak,0,4
+Jumlah daun berbercak yang dinilai sehat,1,1
+Kondisi cahaya dengan akurasi terendah,bayangan (0.92),terang (0.83)
+Citra salah kelas,teh_030,"teh_001, teh_013, teh_017, teh_018, teh_030"

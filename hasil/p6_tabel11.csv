@@ -1,0 +1,6 @@
+aturan,galat_berat,galat_ringan,galat_sehat,daun_sehat_dgn_bercak_palsu
+tanpa saring,1.0,0.65,4.45,9
+luas >= 20,0.6,0.4,3.35,7
+luas + kebulatan,0.3,0.25,2.3,6
+luas + kebulatan + rasio,0.15,0.25,0.95,5
+"final: luas>=40, bulat>=0.4, rasio<=1.8",0.0,0.2,0.0,0
