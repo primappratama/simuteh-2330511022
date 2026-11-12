@@ -1,5 +1,5 @@
 opsi,P,R,F1,R_bercak_berat,R_bercak_ringan,R_bercak_kontras_rendah
 Canny 30/90 sigma 2,0.987,0.977,0.981,0.907,0.819,0.422
-Canny 30/90 sigma 1,0.815,0.995,0.868,0.98,0.967,0.964
+Canny 30/90 sigma 1,0.815,0.995,0.869,0.98,0.967,0.964
 persentil q=98 sigma 2,0.992,0.994,0.993,0.975,0.966,0.969
 persentil q=98 sigma 1,0.702,0.996,0.77,0.985,0.966,0.981
